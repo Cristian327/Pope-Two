@@ -6,13 +6,13 @@ import { TABLES_STORE } from "../constans/tables-store";
 // Set the configuration for your app
 // TODO: Replace with your project's config object
 const firebaseConfig = {
-  apiKey: "AIzaSyD0PpMvNAorqVlkOAA6524ip6q2NKFY4O4",
-  authDomain: "pope-ee717.firebaseapp.com",
-  projectId: "pope-ee717",
-  storageBucket: "pope-ee717.appspot.com",
-  messagingSenderId: "887496932755",
-  appId: "1:887496932755:web:0ef198d36d7ff2fe3f7c66",
-  measurementId: "G-ELCYZ6GW1M",
+  apiKey: "AIzaSyD9rS2pPagLag5v5yvRyILtTduDI13d2Gk",
+  authDomain: "pope-96ad7.firebaseapp.com",
+  projectId: "pope-96ad7",
+  storageBucket: "pope-96ad7.appspot.com",
+  messagingSenderId: "703878004676",
+  appId: "1:703878004676:web:8e48d382beb67f39ae2e91",
+  measurementId: "G-LSD5C8HS8R",
 };
 const app = initializeApp(firebaseConfig);
 
